@@ -23,4 +23,4 @@ where:
 * temperature : float value between [0-1]. The closer to zero, the more predictable the melody will be and viceversa.
 
 <h4> MIDIs </h4>
-On midi folder there are few examples I have generated with different temperatures. It sounds pretty neat. you could say it's folk music.
+On midi folder there are few examples I have generated with different temperatures. It sounds pretty neat, cannot tell the difference.
