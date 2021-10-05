@@ -5,7 +5,7 @@ The training dataset is obtained from <a href="http://www.esac-data.org/"> ESAC 
 
 
 <h4> DATASET </h4>
-has been obtained from the ESAC dataset over 6000 german songs and 2000 china ( _han_, _shanxi_ ) songs. All songs had been preprocess into musical time-series format following Valerio's process.
+has been obtained from the ESAC dataset over 6000 german songs and 2000 china ( *han, shanxi* ) songs. All songs had been preprocess into musical time-series format following Valerio's process.
 
 <h4> MODELS </h4>
 Two models trained on each data set for 50 epochs are provided.
