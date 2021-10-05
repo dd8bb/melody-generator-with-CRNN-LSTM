@@ -17,7 +17,7 @@ Melody Generator class given on Jupyter notebook.  It has the following syntaxis
 melody = mg.generate_melody(seed, num_steps, max_sequence_length, temperature )
 ```
 where:
-* seed : First notes of the melody to generate.
+* seed : First notes of the melody to generate. Few examples are given on the notebook
 * num_steps : max num of steps the neural network can take to generate the melody.
 * max_sequence_length : max length the melody can take.
 * temperature : float value between [0-1]. The closer to zero, the more predictable the melody will be and viceversa.
